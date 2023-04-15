@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining DZ 3.1 Volume Walls.dll"</Assembly>
+		<AddInId>1328F84B-6B6F-4364-9A66-197A587853D1</AddInId>
+		<FullClassName>RevitAPITraining DZ 3.1 Volume Walls.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>DZ 3.1 TheVolumeOfTheSelectedWalls</Text>
+	</AddIn>
+</RevitAddIns>
